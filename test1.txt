@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 1079-8362
+
+ Directory of C:\GitWorkSpace
+
+08/01/2017  12:02 PM    <DIR>          .
+08/01/2017  12:02 PM    <DIR>          ..
+08/01/2017  12:02 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  749,403,750,400 bytes free
